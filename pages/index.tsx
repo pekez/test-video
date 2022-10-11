@@ -13,7 +13,7 @@ const Home: NextPage = () => (
     <main>
       <video width="320" height="240" controls>
         <source
-          src="https://api-v2.salesfra.me/stream/69690b8a498ce98dab84a894691952e2/2/mi4n275/sf_6345653b2350d/663efb07c40f4c4dc8de9804852b59fc"
+          src="https://api-v2.salesfra.me/stream/c5d4aab9298ead431380049c923a6171/31/m9w2Lpv/sf_6345679759911/67535f5028abd33b7a01ea75f0f2f472"
           type="video/mp4"
         />
         Your browser does not support the video tag.
